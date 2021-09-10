@@ -8,7 +8,7 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "video": "https://drive.google.com/uc?id=1V33GbIQvFpva3mkZLb3dCTYk86oXfV70",
       "privacy": "https://fahirpecic.github.io/privacy.html",
       
       "spancount": 1,
