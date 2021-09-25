@@ -3,8 +3,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "",
@@ -19,22 +19,22 @@
       "guide": [
         
      [
-            "Deeeer 1",
+            "Simulator",
             "https://img.youtube.com/vi/AAH9qPWftGQ/maxresdefault.jpg",
             "DEEEER Simulator is a “Slow-Life Town Destruction Game”. You can spend your days enjoying a nice, relaxed frolic here and there together with the other animals around town, or you can choose to relieve some stress and absolutely destroy the town and everything in it."
    ],
      [
-            "Deeeer 2",
+            "Deeeer ",
             "https://img.youtube.com/vi/AAH9qPWftGQ/maxresdefault.jpg",
             "DEEEER Simulator is a “Slow-Life Town Destruction Game”. You can spend your days enjoying a nice, relaxed frolic here and there together with the other animals around town, or you can choose to relieve some stress and absolutely destroy the town and everything in it."
    ],
      [
-            "Deeeer 3",
+            "Slow-Life",
             "https://img.youtube.com/vi/AAH9qPWftGQ/maxresdefault.jpg",
             "DEEEER Simulator is a “Slow-Life Town Destruction Game”. You can spend your days enjoying a nice, relaxed frolic here and there together with the other animals around town, or you can choose to relieve some stress and absolutely destroy the town and everything in it."
    ],
      [
-            "Deeeer 4",
+            "Destruction",
             "https://img.youtube.com/vi/AAH9qPWftGQ/maxresdefault.jpg",
             "DEEEER Simulator is a “Slow-Life Town Destruction Game”. You can spend your days enjoying a nice, relaxed frolic here and there together with the other animals around town, or you can choose to relieve some stress and absolutely destroy the town and everything in it."
    ]
@@ -69,9 +69,9 @@
         "admb_openad": "ca-app-pub-3940256099942544/3419835294"
       },
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3667089s",
+        "unity_id": "3667089",
         "unity_inters": "video"
       },
       
